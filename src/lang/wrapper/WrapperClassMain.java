@@ -18,6 +18,5 @@ public class WrapperClassMain {
 
         Integer newInteger2 = new Integer(10);
         System.out.println("== : " + (newInteger.equals(newInteger2))); //.equals()로 비교해야 함!
-
     }
 }
